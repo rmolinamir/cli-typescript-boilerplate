@@ -3,7 +3,7 @@
   "description": "A TypeScript CLI app boilerplate.",
   "version": "1.0.0",
   "main": "dist/index.js",
-  "author": "gabro",
+  "author": "rmolinamir",
   "license": "MIT",
   "bin": {
     "myCli": "dist/cli.js"
