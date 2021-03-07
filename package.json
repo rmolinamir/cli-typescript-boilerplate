@@ -55,7 +55,6 @@
     "lint-staged": "^10.5.4",
     "mock-stdin": "1.0.0",
     "prettier": "^2.2.1",
-    "test": "^0.6.0",
     "ts-jest": "^26.5.2",
     "typescript": "^4.2.2"
   },
